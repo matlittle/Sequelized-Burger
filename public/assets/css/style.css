@@ -1,0 +1,22 @@
+p {
+    margin: 0;
+    line-height: 30px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+#burger-img {
+    max-height: 150px;
+    margin: 0 auto 20px;
+}
+
+#submit-btn {
+    margin: auto;
+    display: block;
+}
+
+.del-btn {
+    float: right;
+}

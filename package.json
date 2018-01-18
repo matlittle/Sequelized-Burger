@@ -1,0 +1,30 @@
+{
+  "name": "sequelized-burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matlittle/Sequelized-Burger.git"
+  },
+  "author": "Mathew Little",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matlittle/Sequelized-Burger/issues"
+  },
+  "homepage": "https://github.com/matlittle/Sequelized-Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.31.2",
+    "sequelize-cli": "^3.2.0"
+  }
+}
